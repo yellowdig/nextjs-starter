@@ -1,0 +1,14 @@
+{
+  "name": "interview-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yellowdig/interview-starter.git",
+  "author": "Brian Hurlow <brian@brianhurlow.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
